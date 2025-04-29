@@ -1,10 +1,17 @@
 a ✨ _special_ ✨ repository of Christian Kowalczyk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+.⋆｡⋆˚｡⋆｡˚☽˚｡ From Pa and live in Nyc .˚｡⋆｡˚☽˚⋆｡⋆｡
+
+Currently working as a software engineer for a fast food company
+
+My favorite movies are 
+- Wanda (1970)
+- Old Joy
+- Little Miss Sunshine
+- Passages
+- The Green Knight
+
+Enjoy life
+
+- 📫 How to reach me: chrisjkowalcz@gmail.com
+
