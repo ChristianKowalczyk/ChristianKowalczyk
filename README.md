@@ -1,11 +1,11 @@
 a ✨ _special_ ✨ repository of Christian Kowalczyk
 
-.⋆｡⋆˚｡⋆｡˚☽˚｡ From Pa and live in Nyc ˚｡⋆｡⋆˚☽˚⋆｡⋆｡
+.⋆｡⋆˚｡⋆｡˚☽˚｡ From Pa live in Nyc ˚｡⋆｡⋆˚☽˚⋆｡⋆｡
 
 Currently working as a software engineer for a fast food company
 
 My favorite movies are 
-- Wanda (1970)
+- Wanda
 - Old Joy
 - Little Miss Sunshine
 - Passages
