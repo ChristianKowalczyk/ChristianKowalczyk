@@ -13,5 +13,4 @@ My favorite movies are
 
 Enjoy life
 
-- 📫 How to reach me: chrisjkowalcz@gmail.com / @subwaypoem on twitter
-
+- 📫 How to reach me: chrisjkowalcz@gmail.com
