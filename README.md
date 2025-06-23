@@ -6,4 +6,4 @@ Currently working as a software engineer for a fast food company
 
 Enjoy life
 
-- 📫 How to reach me: chrisjkowalcz@gmail.com / [Lboxd](https://letterboxd.com/chrisidek)
+- 📫 How to reach me: chrisjkowalcz@gmail.com
